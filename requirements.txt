@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+youtube-transcript-api
+chonkie
+tiktoken
+langchain-core
+langchain-community
+langchain-classic
+langchain-google-genai
+langchain-pinecone
+pinecone
+rank-bm25
